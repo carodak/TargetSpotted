@@ -1,4 +1,4 @@
-Realization: A third-person game where you have to pick up more items than the AI. Carefully, if the ennemies detect an agent (AI or player) in their ﬁeld of view then the agent is captured and removed from the game. Developed under Unity in C# for COMP521(Modern Computer Games) at Mcgill.
+Realization: A third-person game where you have to pick up more items than the AI. If the ennemies detect an agent (AI or player) in their ﬁeld of view then the agent is captured and removed from the game. Developed under Unity in C# for COMP521(Modern Computer Games) at Mcgill.
 
 How to play?
 
