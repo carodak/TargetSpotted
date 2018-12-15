@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{7C866867-0935-AD74-2349-039A4DDDECD8}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AI.cs">
+    <Files>
+      <File FileName="Assets/EnnemiesCollisionAgents.cs" Line="57" Column="10" />
+      <File FileName="Assets/AICollisionEnnemies.cs" Line="36" Column="24" />
+      <File FileName="Assets/AI.cs" Line="233" Column="25" />
+      <File FileName="Assets/Player.cs" Line="41" Column="13" />
+      <File FileName="Assets/Agents.cs" Line="22" Column="1" />
+      <File FileName="Assets/AstarPathfindingProject/Behaviors/AIDestinationSetter.cs" Line="18" Column="10" />
+      <File FileName="Assets/EndTheGame.cs" Line="19" Column="18" />
+      <File FileName="Assets/ItemCollision.cs" Line="19" Column="56" />
+      <File FileName="Assets/EnnemiesMovement.cs" Line="83" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
