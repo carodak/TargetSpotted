@@ -1,22 +1,42 @@
-﻿<Properties StartupConfiguration="{7C866867-0935-AD74-2349-039A4DDDECD8}|">
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AI.cs">
+﻿<Properties StartupConfiguration="{ED9DD779-6FF9-FAA1-2F73-A8019CB22921}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScripts/EnnemiesCollisionObstacles.cs">
     <Files>
-      <File FileName="Assets/EnnemiesCollisionAgents.cs" Line="57" Column="10" />
-      <File FileName="Assets/AICollisionEnnemies.cs" Line="36" Column="24" />
-      <File FileName="Assets/AI.cs" Line="233" Column="25" />
-      <File FileName="Assets/Player.cs" Line="41" Column="13" />
-      <File FileName="Assets/Agents.cs" Line="22" Column="1" />
-      <File FileName="Assets/AstarPathfindingProject/Behaviors/AIDestinationSetter.cs" Line="18" Column="10" />
-      <File FileName="Assets/EndTheGame.cs" Line="19" Column="18" />
-      <File FileName="Assets/ItemCollision.cs" Line="19" Column="56" />
-      <File FileName="Assets/EnnemiesMovement.cs" Line="83" Column="28" />
+      <File FileName="Assets/MyScripts/Ennemies.cs" Line="161" Column="13" />
+      <File FileName="Assets/MyScripts/Agents.cs" Line="63" Column="59" />
+      <File FileName="Assets/MyScripts/AI.cs" Line="102" Column="13" />
+      <File FileName="Assets/MyScripts/Player.cs" Line="61" Column="1" />
+      <File FileName="Assets/Items.cs" Line="39" Column="28" />
+      <File FileName="Assets/MyScripts/AICollisionEnnemies.cs" Line="5" Column="24" />
+      <File FileName="Assets/MyScripts/PlayerCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyScripts/EndTheGame.cs" Line="38" Column="32" />
+      <File FileName="Assets/MyScripts/Alcoves.cs" Line="7" Column="12" />
+      <File FileName="Assets/MyScripts/ItemCollision.cs" Line="49" Column="60" />
+      <File FileName="Assets/AstarPathfindingProject/Core/AstarPath.cs" Line="840" Column="1" />
+      <File FileName="Assets/MyScripts/EnnemiesCollisionAgents.cs" Line="96" Column="35" />
+      <File FileName="Assets/MyScripts/EnnemiesCollisionObstacles.cs" Line="103" Column="58" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TargetSpotted" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TargetSpotted" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AstarPathfindingProject PreferredExecutionTarget="4992fd33-87ce-4e8b-865f-81803f1c8cf2" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
